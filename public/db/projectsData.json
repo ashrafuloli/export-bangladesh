@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "date": "Oct 13, 2024",
+    "title": "Creative clicks",
+    "slug": "creative-clicks",
+    "short_description": "At blind solitary look she they leaning characters part from begin his said the given conduct",
+    "category": ["Web Design","Branding"],
+    "thumb": "/img/projects/project-thumb-1.jpg",
+    "button_link": "#"
+  },
+  {
+    "id": "2",
+    "date": "Oct 14, 2024",
+    "title": "Elegant pixels",
+    "slug": "elegant-pixels",
+    "short_description": "Trade, is that its to at in rather something pass parameters project concept still",
+    "category": ["App Design","Web App"],
+    "thumb": "/img/projects/project-thumb-2.jpg",
+    "button_link": "#"
+  },
+  {
+    "id": "3",
+    "date": "Oct 15, 2024",
+    "title": "Digital dreamscapes",
+    "slug": "digital-dreamscapes",
+    "short_description": "Fly sure children's the something the looked. Where travelling, the coast explain a frequently in hear",
+    "category": ["Dashboard","Branding"],
+    "thumb": "/img/projects/project-thumb-3.jpg",
+    "button_link": "#"
+  },
+  {
+    "id": "3",
+    "date": "Oct 15, 2024",
+    "title": "Webmasterpieces",
+    "slug": "webmasterpieces",
+    "short_description": "Ira accordingly animals however and son, they'd a him tones to felt on couldn't we our review",
+    "category": ["Web Design","Web App"],
+    "thumb": "/img/projects/project-thumb-4.jpg",
+    "button_link": "#"
+  }
+]
